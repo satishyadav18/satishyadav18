@@ -33,6 +33,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satishyadav18&" alt="satishyadav18" /></p>
 
 [![An image of @satishyadav18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/satishyadav18)](https://holopin.io/@satishyadav18)
-
-
-[![An image of @satishyadav18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/satishyadav18)](https://holopin.io/@satishyadav18)
