@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React & Node.js**
 
-- 💬 Ask me about **I am a CSE student focused on learning programming languages and web development and likes to code in C, C++, Java, Python, and JavaScript.**
+- 💬 **I am a CSE student focused on learning programming languages and web development and likes to code in C, C++, Java, Python, and JavaScript.**
 
 - 📫 Reach me **yadavsatish212004@gmail.com**
 
