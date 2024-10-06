@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **I am a CSE student focused on learning programming languages and web development and likes to code in C, C++, Java, Python, and JavaScript.**
 
-- 📫 How to reach me **yadavsatish212004@gmail.com**
+- 📫 Reach me **yadavsatish212004@gmail.com**
 
-- ⚡ Fun fact **I am funny.**
+- ⚡**I am funny.**
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satishyadav18" alt="satishyadav18" /></a> </p>
 
