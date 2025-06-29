@@ -11,7 +11,6 @@
 
 - 📫 Reach me **yadavsatish212004@gmail.com**
 
-- ⚡**I am funny.**
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satishyadav18" alt="satishyadav18" /></a> </p>
 
