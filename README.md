@@ -1,11 +1,11 @@
 ![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
 <h1 align="center">Hi 👋, I'm Satish Yadav</h1>
-<h3 align="center">A passionate web-developer from India.</h3>
+<h3 align="center">A passionate coder from India.</h3>
 <img align="right" alt="Coding" widht="200"height="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satishyadav18&label=Profile%20views&color=0e75b6&style=flat" alt="satishyadav18" /> </p>
 
-- 🌱 I’m currently learning **React & Node.js**
+- 🌱 I’m currently learning **DevOps**
 
 - 💬 **I am a CSE student focused on learning programming languages and web development and likes to code in C, C++, Java, Python, and JavaScript.**
 
